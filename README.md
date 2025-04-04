@@ -39,8 +39,8 @@ La lógica es la siguiente:
 ├── src
 	├── Main.java
 	├── CSV.java
-	├── Transaction.java
+	└── Transaction.java
 ├── README.md
-└── data.csv
-├── reto_cobol.jar
+├── data.csv
+└── reto_cobol.jar
 ```
