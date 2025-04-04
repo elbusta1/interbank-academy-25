@@ -6,7 +6,7 @@ Este reto consiste en desarrollar un programa que pueda ejecutarse desde la line
 
 
 2.- INSTRUCCIONES
-- Primero se debe tener instalado JAVA version 8+, caso contrario descargalo desde "https://www.java.com/es/download/manual.jsp"
+- Primero se debe tener instalado JAVA version 8+, caso contrario descargalo desde https://www.java.com/es/download/manual.jsp
 - Abrir una terminal en donde se encuentre el archivo "reto_cobol.jar"
 - Ingresar la linea de comando "java -jar reto_cobol.jar" y presionar enter
 - Ingresar el path donde se encuentre el archivo CSV, si esta en el mismo directorio del archivo "reto_cobol.jar" no será necseario poner todo el path absoluto
