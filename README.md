@@ -36,11 +36,11 @@ La lógica es la siguiente:
 
 ```
 .
-├── README.md
 ├── src
 	├── Main.java
 	├── CSV.java
 	├── Transaction.java
-├── reto_cobol.jar
+├── README.md
 └── data.csv
+├── reto_cobol.jar
 ```
